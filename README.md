@@ -3,9 +3,9 @@
 ### About the project
 The MinecraApp allows you to download maps, mods, skins for MineCraft from Cloud and install it to the game. 
 
-<img src="https://github.com/ant-fedorich/minecra-app-public/blob/master/images/minecra-app-1.jpg" width=260/>
-<img src="https://github.com/ant-fedorich/minecra-app-public/blob/master/images/minecra-app-2.jpg" width=260/>
-<img src="https://github.com/ant-fedorich/minecra-app-public/blob/master/images/minecra-app-3.jpg" width=260/>
+<img src="images/minecra-app-1.jpg" width=260/>
+<img src="images/minecra-app-2.jpg" width=260/>
+<img src="images/minecra-app-3.jpg" width=260/>
 
 ### Warning
 > Because of some rights for some materials, this project is not public and it could not be published in Google Play.
